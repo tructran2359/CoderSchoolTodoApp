@@ -18,10 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+<iframe width="854" height="480" src="https://www.youtube.com/embed/IAxowpg6ge8" frameborder="0" allowfullscreen></iframe>
 
 ## License
 
