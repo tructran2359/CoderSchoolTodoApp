@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="input_hint">Enter a new item</string>
+    <string name="add">ADD</string>
+    <string name="edit_title">Edit item below:</string>
+    <string name="save">Save</string>
+</resources>
